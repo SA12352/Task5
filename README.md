@@ -16,3 +16,5 @@ Selecting the right tool (RAG, Calculator, or Wikipedia)
 Generating the final human-like answer (Synthesizer)
 👉 Without the Gemini API key, the system cannot plan or synthesize responses.
 The RAG, Calculator, and Wikipedia work as tools, but Gemini is the brain that combines them.
+git clone https://github.com/SA12352.git
+cd Task5
